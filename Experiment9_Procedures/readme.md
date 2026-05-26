@@ -1,4 +1,7 @@
 # Experiment 9: PL/SQL – Procedures and Functions
+## NAME : DILLIGANESAN K
+## REGISTRATION NUMBER : 212224100014
+
 
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
